@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 //                    .description(name)
                     .image(url_maps.get(name))//添加网络图片的网址的集合
                     .setScaleType(BaseSliderView.ScaleType.Fit);//图片填充类型
-            //传值
+            //传值.
 //            textSliderView.bundle(new Bundle());
 //            textSliderView.getBundle()
 //                    .putString("extra", name);
